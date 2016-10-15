@@ -51,6 +51,7 @@
 	background-color: rgb(219, 219, 219);
 	padding-top: 10px;
 	padding-bottom: 10px;
+	border-radius: 0;
 }
 .btn a{
 	text-decoration: none;
@@ -64,6 +65,24 @@
 .desbloquear-clave a{
 	text-decoration: none;
 	color: rgb(0, 142, 50);
+}
+@media (max-width: 600px){/*responsive para dispositivos pequeños*/
+	.texto-appsegura{
+		margin-top: 20px;
+	}
+	.texto-appsegura p{
+		font-size: 17px;
+	}
+	.imagen-candado{
+		width: 200%;
+	}
+	.index-candado{
+		margin-top: 15px;
+	}
+	.index-candado{
+		width: 100%;
+		margin-top: 20px;
+	}
 }
 /*fin css index*/
 /*mapa*/
