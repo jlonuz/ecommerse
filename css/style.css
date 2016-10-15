@@ -10,9 +10,10 @@
 .baner-head{
 	background-image: url(../img/BCi.png);
 	background-size: inherit;
-	zoom:0.6;
-	background-position: center;
-	padding-bottom:9%;
+	zoom:0.9;
+	background-position: left;
+	padding-bottom:11%;
+	margin-bottom: 1%;
 }
 .imagenlogo{
 	width: 100%;
@@ -173,4 +174,22 @@
 }
 .separadorVerde{
 	border: 1px solid #008000;
+}
+.txt-g{
+	color: grey;
+}
+.tamañoIcono-inicio{
+	font-family:'Open Sans', sans-serif;
+	font-weight: lighter;
+	font-size: 100px;
+}
+.txt-v{
+	color: #008000;
+}
+.txt-grande{
+	font-size: 50px;
+	font-weight:border;
+}
+.icono-grande{
+	font-size: 200px;
 }
