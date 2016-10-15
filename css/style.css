@@ -1,3 +1,4 @@
+
 /*css index*/
 .index-logoBCI{
 	width: 40%;
@@ -19,13 +20,17 @@
 	font-weight: bold;
 }
 /*fin css index*/
+/*mapa*/
 .fondo {
 	background-color:#EDEDED;
 	height: 800px;
 }
-$(function(){
-  $("#slides").slidesjs({
-    width: 700,
-    height: 393
-  });
-});
+ .mapa{  
+ margin: 0 auto;
+  display: block;
+}
+.relampago{
+	font-family:'Open Sans', sans-serif;;
+
+}
+/*mapa*/
