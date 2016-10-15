@@ -1,0 +1,13 @@
+*{
+	font-family: 'Open Sans', sans-serif;
+}
+.cpc-img{
+	height: 100%;
+	width: 100%;
+}
+.baner-head{
+	background-image: url(../img/BCi.png);
+	background-size: inherit;
+	zoom:0.5;
+	background-position: bottom;
+	padding-bottom:9%;
