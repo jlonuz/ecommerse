@@ -1,3 +1,4 @@
+
 /*css index*/
 .imagenlogo{
 	width: 100%;
@@ -65,7 +66,17 @@
 	color: rgb(0, 142, 50);
 }
 /*fin css index*/
+/*mapa*/
 .fondo {
 	background-color:#EDEDED;
 	height: 800px;
 }
+ .mapa{  
+ margin: 0 auto;
+  display: block;
+}
+.relampago{
+	font-family:'Open Sans', sans-serif;;
+
+}
+/*mapa*/
