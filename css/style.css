@@ -1,22 +1,68 @@
 /*css index*/
+.imagenlogo{
+	width: 100%;
+	height: auto;
+}
 .index-logoBCI{
-	width: 40%;
+	width: 80%;
 	height: auto;
 }
 .texto-appsegura{
-	padding-top: 40%;
+	margin-top: 60px;
+	padding-right: 20px;
 }
 .texto-appsegura p{
 	margin: 0;
 	text-align: right;
 	color: rgb(0, 142, 50);
+	font-size: 20px;
+}
+.imagen-candado{
+	width: 50%;
+	height: auto;
+	padding-top: 10%;
 }
 .index-candado{
-	width: 20%;
+	text-align: center;
+	margin-top: 60px;
+	width: 60%;
 	height: auto;
 }
 .texto-bienvenido span{
 	font-weight: bold;
+}
+.ingresar{
+	margin-top: 5%;
+}
+.ingresar p{
+	font-size: 17px;
+}
+.ingresar input{
+	font-size: 20px;
+}
+.ingresar-clave{
+	border: 1px solid rgb(0, 142, 50);
+	border-radius: 0;
+}
+.btn{
+	display: block;
+	width: 100%;
+	background-color: rgb(219, 219, 219);
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.btn a{
+	text-decoration: none;
+	color: white;
+	font-size: 20px;
+}
+.desbloquear-clave{
+	margin-top: 3%;
+	text-align: center;
+}
+.desbloquear-clave a{
+	text-decoration: none;
+	color: rgb(0, 142, 50);
 }
 /*fin css index*/
 .fondo {
