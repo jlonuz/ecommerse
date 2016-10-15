@@ -2,3 +2,32 @@
 	background-color:#EDEDED;
 	height: 800px;
 }
+
+/*inicio estilos compra*/
+
+.logo{
+	padding: 70px;
+	margin-left: 100px;
+}
+
+.local {
+    border-radius: 100px;
+    margin: 40px;
+}
+.exitosa{
+	font-weight: bolder;
+}
+
+.exitosa{
+	visibility: hidden;
+}
+
+.condiciones{
+	margin-left: 80px;
+}
+
+.boton{
+	margin-left: 330px;
+}
+
+
